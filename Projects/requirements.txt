@@ -3,3 +3,4 @@ langchain
 langchain_community
 python-dotenv
 gunicorn==19.7.1
+litellm
